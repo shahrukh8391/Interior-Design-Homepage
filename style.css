@@ -1,0 +1,152 @@
+.Nav-section
+{
+    position:relative;
+    margin-top: -21cm;
+}
+
+.navbar-section
+{
+    display: flex;
+    margin-top: 1cm;
+    justify-content:space-around;
+}
+
+.logo
+{
+    margin-left: 2cm;
+}
+
+.nav-list
+{
+    margin-left: 4cm;
+    margin-top: 0.5cm;
+}
+
+.nav-list li
+{
+    display:inline;
+    color: black;
+    font-weight: 600;
+    list-style-type: none;
+    margin-right: 2cm;
+}
+
+.contacts
+{   
+    float: right;
+    margin-right: 3cm;
+}
+
+.contact
+{
+    margin-right: 0cm;
+}
+
+.contacts li
+{
+    color: black;
+    font-weight: 600;
+    list-style-type: none;
+    margin-right: 1cm;
+}
+
+.line
+{
+    margin-left: 4cm;
+    width: 24cm;
+    height: 70px;
+    border-bottom: 1.5px solid black;
+    position: absolute;
+}
+
+.left-section
+{
+    margin-left: 3cm;
+    margin-top: 2cm;
+}
+
+.left-section h1
+{
+    height: 130px;
+    background-color: aqua;
+    width: 450px;
+    font-size:50px;
+}
+
+.left-section button
+{
+    border-radius: 1cm;
+    background-color: transparent;
+    border-color: #F0F0F0;
+    font-size: 0.6cm;
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.right-section
+{
+    position:relative;
+}
+
+.part1
+{
+    background-color:#F0F0F0;
+    float: right;
+    margin-right: 5cm;
+    height: 3cm;
+    width: 6cm;
+    margin-top: -8cm;
+    padding: 20px;
+}
+
+.part2
+{
+    background-color:#F0F0F0;
+    float: right;
+    margin-right: 12cm;
+    height: 3cm;
+    width: 6cm;
+    padding: 20px;
+}
+
+.line2
+{
+    margin-left: 29.5cm;
+    margin-top: -3.9cm;
+    width: cm;
+    height: 2cm;
+    border-left: 1.5px solid white;
+    position: absolute;
+}
+
+.line3
+{
+    float: right;
+    margin-left: 25.8cm;
+    margin-top: -0.1cm;
+    width: 3cm;
+    height: 2cm;
+    border-bottom: 1.5px solid white;
+    position: absolute;
+}
+
+.circle1
+{
+    height: 25px;
+    width: 25px;
+    background-color:white;
+    border-radius: 50%;
+    margin-left:2.85cm;
+    margin-top: 2cm;
+}
+
+.circle2
+{
+    height: 25px;
+    width: 25px;
+    background-color:white;
+    border-radius: 50%;
+    margin-left:8.9cm;
+    margin-top: -2.5cm;
+}
